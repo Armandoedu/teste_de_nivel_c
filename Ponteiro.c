@@ -17,4 +17,6 @@ int main(){
 		printf("%d ", vetor[i]);
 	}
 	free(vetor);
+	
+	return 0;
 }
